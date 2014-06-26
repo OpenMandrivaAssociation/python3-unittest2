@@ -51,6 +51,7 @@ mv %{buildroot}%{_bindir}/unit2.py %{buildroot}%{_bindir}/unit2-python%{py3_ver}
 %files
 %doc README.txt
 %{_bindir}/unit2-python%{py3_ver}*
+%{_bindir}/unit2-3.4
 %{py3_puresitedir}/unittest2/
 %{py3_puresitedir}/unittest2py3k-%{version}-py%{py3_ver}.egg-info
 
