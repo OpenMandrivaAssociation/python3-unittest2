@@ -11,7 +11,7 @@ License:        BSD
 Group:          Development/Python
 Source:         http://pypi.python.org/packages/source/u/unittest2py3k/%{oname}py3k-%{version}.tar.gz
 BuildRequires:  pkgconfig(python3)
-BuildRequires:  pytho3negg(setuptools)
+BuildRequires:  python3egg(setuptools)
 Requires:       python
 BuildArch:	noarch
 
