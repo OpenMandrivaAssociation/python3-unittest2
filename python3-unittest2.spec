@@ -4,7 +4,7 @@
 
 Name:           python3-%{oname}
 Version:        0.5.1
-Release:        1
+Release:        2
 Url:            http://pypi.python.org/pypi/unittest2
 Summary:        Backport ofunittest2 to Python3
 License:        BSD
